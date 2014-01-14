@@ -1,4 +1,4 @@
-qqcoin-CPU-miner-source
-=======================
+CPU-Miner-Source
+================
 
-QQCoin CPU Miner Source
+Velocitycoin CPU Miner Source Code
